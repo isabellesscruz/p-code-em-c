@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Aluno: Isabelle
+// Aluno: Isabelle Cruz
 
 const int amax = 2047, levmax = 3, cxmax = 200;
 
